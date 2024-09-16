@@ -18,5 +18,6 @@ public class Main {
         System.out.println("你好蒋松林！！");
         System.out.println(("你好，你好，你好，我的头发是真发！！！"));
         System.out.println("damn!!!");
+        System.out.println("fuck fuck fuck ");
     }
 }
