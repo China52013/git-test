@@ -13,11 +13,12 @@ public class Main {
 
             // 按 Shift+F9 开始调试代码。我们已为您设置了一个断点，
             // 但您始终可以通过按 Ctrl+F8 添加更多断点。
-            System.out.println("i = " + i);
+            System.out.println("i = " + "蒋松林");
         }
         System.out.println("你好蒋松林！！");
         System.out.println(("你好，你好，你好，我的头发是真发！！！"));
         System.out.println("damn!!!");
         System.out.println("fuck fuck fuck ");
+
     }
 }
